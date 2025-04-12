@@ -1,18 +1,34 @@
-# Customer_churn
-n this project, I performed an end-to-end analysis on a telecom dataset to predict customer churn using supervised machine learning models(through Mohierdev praktikum). 🔍 Key Steps:
+# Customer Churn Prediction – Portfolio Project
 
-Data Cleaning and EDA (Exploratory Data Analysis)
+This project demonstrates an end-to-end machine learning pipeline for predicting customer churn in the telecom industry.
 
-Feature Engineering and Transformation
+## 🔍 Project Highlights
 
-Model Training (Logistic Regression, Random Forest, XGBoost)
+- Performed EDA to uncover customer behavior
+- Engineered features and cleaned the dataset
+- Trained multiple ML models (Logistic Regression, Random Forest, XGBoost)
+- Evaluated models using accuracy, precision, recall, and F1-score
+- Delivered insights for reducing churn and improving retention
 
-Evaluation with Accuracy, F1-Score, Confusion Matrix
+## 🛠️ Technologies Used
 
-Model Comparison and Insights
+- Python
+- Pandas, NumPy
+- Scikit-learn, XGBoost
+- Matplotlib, Seaborn
+- Jupyter Notebook
 
-📈 Tools & Libraries: Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
+## 📁 File Structure
 
-🚀 Goal: Improve churn prediction accuracy to support customer retention strategies.
+- `Churn_Portfolio.ipynb` – Main notebook with code and outputs
+- `requirements.txt` – Dependencies to recreate the environment
 
-👤 Author: Dostonbek Urinov
+## 📊 Output
+
+This project is also available on [Kaggle](https://www.kaggle.com/code/dostonur/churn-portfolio/notebook)
+
+## 👨‍💻 Author
+
+Dostonbek Urinov  
+LinkedIn: [linkedin.com/in/dostonur](https://linkedin.com/in/dostonur)  
+GitHub: [github.com/DostonUr](https://github.com/DostonUr)
